@@ -38,8 +38,6 @@ A full-stack web application that allows **bankers** and **customers** to manage
 
 ---
 
-       # Entry point for the React app
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -111,9 +109,3 @@ A full-stack web application that allows **bankers** and **customers** to manage
 3. Access the app in your browser at `http://localhost:3001`.
 
 ---
-## Acknowledgements
-- Special thanks to the open-source community for supporting the tools and libraries used in this project.
-
----
-
-Feel free to contribute and improve the system! 🚀
