@@ -22,6 +22,22 @@ A full-stack web application that allows **bankers** and **customers** to manage
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](images/loginpage.png)
+
+### Registration Page
+![Register Page](images/registerpage.png)
+
+### Customer Dashboard
+![Customer Dashboard](images/customerlogin.png)
+
+### Banker Dashboard
+![Banker Dashboard](images/bankerlogin.png)
+
+---
+
 ## Technologies Used
 
 ### Frontend
